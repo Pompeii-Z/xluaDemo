@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 950040562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 088d54a64c777915c84fc8a82e93e5f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c2540343e88b2e84dfdbf2d12e7f16d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Common/UI/btn_go_back.png
+- Assets/AB/Common/UI/icon_add.png
+- Assets/AB/Common/UI/toggle_bg_highlight.png
+- Assets/AB/Common/UI/btn_menu_dropdown.png
+- Assets/AB/Common/UI/toggle_bg.png
+- Assets/AB/Common/UI/icon_diamond.png
+- Assets/AB/Common/UI/icon_gold.png
+- Assets/AB/Common/Common.spriteatlas
+- Assets/AB/Common/UI/icon_power.png
+Dependencies: []
