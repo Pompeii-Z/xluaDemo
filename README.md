@@ -21,6 +21,7 @@
 ## 生命周期
 在Bootstrap.cs中，建立委托和结构体实现将C#生命周期函数映射至lua中，在lua中实现生命周期。
 
+## Lua文件及AB包位置： 项目名\DataPath\Lua\xxx
 ## lua目录
 建立MVC目录结构，Bootstrap.lua作为主脚本，创建必要工具脚本。
 ![](Image/Snipaste_2023-09-19_07-50-18.png)
